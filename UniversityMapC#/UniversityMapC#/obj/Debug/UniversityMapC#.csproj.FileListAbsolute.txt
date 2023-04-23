@@ -1,0 +1,8 @@
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\obj\Debug\UniversityMapC#.csproj.AssemblyReference.cache
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\obj\Debug\UniversityMapC#.csproj.SuggestedBindingRedirects.cache
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\obj\Debug\UniversityMapC#.csproj.CoreCompileInputs.cache
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\bin\Debug\UniversityMapC#.exe.config
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\bin\Debug\UniversityMapC#.exe
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\bin\Debug\UniversityMapC#.pdb
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\obj\Debug\UniversityMapC#.exe
+D:\проекты ВС\UniversityMapC#\UniversityMapC#\obj\Debug\UniversityMapC#.pdb
