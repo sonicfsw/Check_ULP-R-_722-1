@@ -1,0 +1,12 @@
+C:\Users\balac\source\repos\Expenses\bin\Debug\Expenses.exe
+C:\Users\balac\source\repos\Expenses\bin\Debug\Expenses.exe.config
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.csproj.AssemblyReference.cache
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.Form1.resources
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.Form2.resources
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.Form3.resources
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.Properties.Resources.resources
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.csproj.GenerateResource.cache
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.csproj.CoreCompileInputs.cache
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.exe
+C:\Users\balac\source\repos\Expenses\obj\Debug\Expenses.pdb
+C:\Users\balac\source\repos\Expenses\bin\Debug\Expenses.pdb
